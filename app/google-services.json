@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47819738091",
+    "project_id": "kotlin-firebase-e6421",
+    "storage_bucket": "kotlin-firebase-e6421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47819738091:android:edd99caad4ecdafe22a7ae",
+        "android_client_info": {
+          "package_name": "com.example.guia7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoKn2ozgaPDhjsOMTWO4VColX4WtYf8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
